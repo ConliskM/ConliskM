@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ConliskM
+- 👀 I’m interested in video game design
+- 🌱 I’m currently learning C#, Operating System design, Computer Networks design
+- 💞️ I’m looking to collaborate on nothing at the moment
+- 📫 How to reach me: by email at conliskm@hotmail.com
